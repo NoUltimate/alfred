@@ -1,0 +1,9 @@
+{
+  "export_file": "msg.alfredworkflow",
+  "bundle_id": "com.noultimate.msg",
+  "resources": [
+    "icon.png",
+    "405E42E1-4C5E-487E-A330-B3DA1BBE5A70.png",
+    "msg"
+  ]
+}
